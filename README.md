@@ -39,12 +39,6 @@ Prerequisites
 A modern web browser (Chrome, Firefox, Edge, etc.)
 
 Steps to Run
-Download or Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/speed-test-eggroom.git
 Navigate into the folder:
 
 bash
@@ -70,10 +64,7 @@ Backend logging/reporting system
 Multi-language support
 
 🤝 Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-📄 License
-This project is licensed under the MIT License.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to
 
 👨‍💻 Author
 Ashwani Pandey
